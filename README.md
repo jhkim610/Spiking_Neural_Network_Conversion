@@ -1,6 +1,6 @@
-mplementation of the paper
+implementation of the paper
 
-Conversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification
+"Conversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification"
 
 using mnist dataset under pytorch 0.3.1 setting
 
